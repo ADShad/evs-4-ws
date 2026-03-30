@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>True or False Activity</title>
+    <link rel="stylesheet" href="css/true-false.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="question">
+        <h3>Write True or False for the following statements.</h3>
+      </div>
+      <div id="statements-container"></div>
+      <div class="feedback" id="feedback"></div>
+      <div class="score-display" id="score-display"></div>
+      <div class="buttons">
+        <button class="btn btn-submit" onclick="checkAnswers()" id="btn-submit">
+          Submit
+        </button>
+        <button
+          class="hide btn btn-submit"
+          style="margin: 0 auto"
+          onclick="showAns()"
+          id="showAns"
+        >
+          Show Answers
+        </button>
+        <button class="btn btn-reset" onclick="resetQuiz()">Reset</button>
+      </div>
+    </div>
+
+    <audio controls id="audio-intro" class="hide">
+      <source src="./audio/main.mp3" type="audio/mp3" />
+    </audio>
+    <audio id="audio-try-again">
+      <source src="../../audio/try-again.mp3" type="audio/mp3" />
+    </audio>
+    <audio id="audio-clap">
+      <source src="../../audio/welldone.mp3" type="audio/mp3" />
+    </audio>
+
+    <script src="js/true-false.js"></script>
+    <script>
+      const statements = [
+        {
+          text: "Soil, water, sunlight and earthworms all assist a grain on its journey from farm to plate.",
+          answer: "True",
+        },
+        {
+          text: "Mindful eating means eating as quickly as possible to save time.",
+          answer: "False",
+        },
+        {
+          text: "Skipping regular physical activity can make the body strong and energetic.",
+          answer: "False",
+        },
+        {
+          text: "Getting enough sleep helps us feel fresh and focused during the day.",
+          answer: "True",
+        },
+        {
+          text: "It is important to speak up if someone's touch makes you feel uncomfortable.",
+          answer: "True",
+        },
+        {
+          text: "We should take food in our plate more than we need.",
+          answer: "False",
+        },
+        {
+          text: "We need to exercise regularly to stay healthy.",
+          answer: "True",
+        },
+      ];
+
+      window.addEventListener("load", () => initializeQuiz(statements));
+    </script>
+  </body>
+</html>

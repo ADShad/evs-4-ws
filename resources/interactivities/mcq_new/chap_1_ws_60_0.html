@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Multiple Choice Questions</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="mcq-section">
+        <ol>
+          <li>
+            <h3>Choose the correct option.</h3>
+            <div class="quiz_ques">
+              <ol></ol>
+            </div>
+          </li>
+        </ol>
+      </div>
+      <div class="feedback" id="feedback"></div>
+      <div class="score" style="display: none">
+        Score: <span id="total-score">0</span>/<span id="total-marks">0</span>
+      </div>
+      <div class="buttons">
+        <button type="button" id="btn-submit" class="btn btn-submit">
+          Submit
+        </button>
+        <button type="button" id="btn-reset" class="btn btn-reset">
+          Reset
+        </button>
+      </div>
+      <audio controls id="audio-intro" class="hide">
+        <source src="./audio/main.mp3" type="audio/mp3" />
+      </audio>
+      <audio id="audio-try-again">
+        <source src="../../audio/try-again.mp3" type="audio/mp3" />
+      </audio>
+      <audio id="audio-clap">
+        <source src="../../audio/welldone.mp3" type="audio/mp3" />
+      </audio>
+    </div>
+
+    <script type="text/javascript">
+      const questions = [
+        {
+          title: "Which plants grow in deserts?",
+          options: [
+            "Oak, pine, walnut",
+            "Cactus, khejri, babool",
+            "Seaweed, coral, starfish",
+            "Mango, banana, papaya",
+          ],
+          correct: 1,
+        },
+        {
+          title: "Which animal is called the 'Ship of the desert'?",
+          options: ["Camel", "Lizard", "Eagle", "Wild cat"],
+          correct: 0,
+        },
+        {
+          title: "Puri is a coastal city in which state?",
+          options: ["Rajasthan", "Punjab", "Odisha", "Sikkim"],
+          correct: 2,
+        },
+        {
+          title: "Mountains are",
+          options: [
+            "Sandy, little plants",
+            "Rocky, rise high",
+            "Flat, rich soil",
+            "Coastal, palm trees",
+          ],
+          correct: 1,
+        },
+        {
+          title: "Which trees grow in Sikkim's mountains?",
+          options: [
+            "Cactus, khejri, babool",
+            "Oak, pine, walnut",
+            "Seaweed, coral",
+            "Mango, coconut",
+          ],
+          correct: 1,
+        },
+      ];
+    </script>
+    <script src="js/script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Multiple Choice Questions</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="mcq-section">
+        <ol>
+          <li>
+            <h3>Read the passage and answer the questions that follow.</h3>
+            <div class="quiz_ques">
+              <ol>
+              </ol>
+            </div>
+          </li>
+        </ol>
+      </div>
+      <div class="feedback" id="feedback"></div>
+      <div class="score" style="display: none">
+        Score: <span id="total-score">0</span>/<span id="total-marks">0</span>
+      </div>
+      <div class="buttons">
+        <button type="button" id="btn-submit" class="btn btn-submit">
+          Submit
+        </button>
+        <button type="button" id="btn-reset" class="btn btn-reset">
+          Reset
+        </button>
+      </div>
+      <audio controls id="audio-intro" class="hide">
+        <source src="./audio/main.mp3" type="audio/mp3" />
+      </audio>
+      <audio id="audio-try-again">
+        <source src="../../audio/try-again.mp3" type="audio/mp3" />
+      </audio>
+      <audio id="audio-clap">
+        <source src="../../audio/welldone.mp3" type="audio/mp3" />
+      </audio>
+    </div>
+
+    <script type="text/javascript">
+      const questions = [{"title": "When did Chandrayaan-3 lift off?", "options": ["14 July 2023", "23 August 2023", "14 August 2023", "23 July 2023"], "correct": 0}, {"title": "What are the names of the lander and the rover?", "options": ["Vikram and Pragyan", "Vikram and Chandrayaan", "Pragyan and Chandrayaan", "Vikram and India"], "correct": 1}, {"title": "Where did Chandrayaan-3 land on 23 August 2023?", "options": ["Moon's South Pole", "Moon's North Pole", "Earth's Surface", "India"], "correct": 2}, {"title": "What did the rover discover near its landing site?", "options": ["A 160-kilometre-wide round hole", "A new mountain range", "A new crater", "A new volcano"], "correct": 3}];
+    </script>
+    <script src="js/script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Multiple Choice Questions</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="mcq-section">
+        <ol>
+          <li>
+            <h3>Write the names of the following creatures.</h3>
+            <div class="quiz_ques">
+              <ol></ol>
+            </div>
+          </li>
+        </ol>
+      </div>
+      <div class="feedback" id="feedback"></div>
+      <div class="score" style="display: none">
+        Score: <span id="total-score">0</span>/<span id="total-marks">0</span>
+      </div>
+      <div class="buttons">
+        <button type="button" id="btn-submit" class="btn btn-submit">
+          Submit
+        </button>
+        <button type="button" id="btn-reset" class="btn btn-reset">
+          Reset
+        </button>
+      </div>
+      <audio controls id="audio-intro" class="hide">
+        <source src="./audio/main.mp3" type="audio/mp3" />
+      </audio>
+      <audio id="audio-try-again">
+        <source src="../../audio/try-again.mp3" type="audio/mp3" />
+      </audio>
+      <audio id="audio-clap">
+        <source src="../../audio/welldone.mp3" type="audio/mp3" />
+      </audio>
+    </div>
+
+    <script type="text/javascript">
+      const questions = [
+        {
+          title: "The largest animal in the world",
+          options: ["Sailfish", "Cheetah", "Blue whale", "Elephant"],
+          correct: 2,
+        },
+        {
+          title: "The largest animal on land",
+          options: ["Sailfish", "Cheetah", "Blue whale", "Elephant"],
+          correct: 3,
+        },
+        {
+          title: "The tallest animal in the world",
+          options: ["Sailfish", "Cheetah", "Blue whale", "Giraffe"],
+          correct: 3,
+        },
+        {
+          title: "The fastest animal in the world",
+          options: ["Sailfish", "Cheetah", "Blue whale", "Elephant"],
+          correct: 1,
+        },
+        {
+          title: "The largest bird in the world",
+          options: ["Sailfish", "Cheetah", "Blue whale", "Ostrich"],
+          correct: 3,
+        },
+        {
+          title: "The fastest fish in the world",
+          options: ["Sailfish", "Cheetah", "Blue whale", "Elephant"],
+          correct: 0,
+        },
+      ];
+    </script>
+    <script src="js/script.js"></script>
+  </body>
+</html>
