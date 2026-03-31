@@ -21,7 +21,7 @@ body {
 .mcq-section ol {
   margin: 0;
   padding: 0;
-  padding-left: 30px;
+  /* padding-left: 30px; */
   text-align: left;
 }
 
@@ -130,24 +130,6 @@ input[type="radio"] {
   background-color: #f44336;
 }
 
-@media screen and (max-width: 768px) {
-  .container {
-    padding: 15px;
-  }
-
-  .quiz_ques h3 {
-    font-size: 16px;
-  }
-
-  .flexwrap {
-    gap: 10px;
-  }
-
-  .labelwrap {
-    padding-right: 30px;
-  }
-}
-
 audio {
   display: none;
 }
@@ -179,7 +161,10 @@ audio {
   background: #fff;
   cursor: pointer;
   font-size: 16px;
-  transition: border-color 0.2s, background 0.2s, color 0.2s;
+  transition:
+    border-color 0.2s,
+    background 0.2s,
+    color 0.2s;
   min-width: 80px;
   text-align: center;
   user-select: none;
@@ -204,4 +189,27 @@ audio {
   opacity: 0.6;
   cursor: not-allowed;
 }
- 
+@media screen and (max-width: 768px) {
+  .container {
+    padding: 15px;
+  }
+
+  .quiz_ques h3 {
+    font-size: 16px;
+  }
+
+  .flexwrap {
+    gap: 10px;
+  }
+
+  .labelwrap {
+    padding-right: 30px;
+  }
+
+  .mcq-section ol li {
+    margin: 0px 0;
+  }
+  .circle-option {
+    margin: 0px 0;
+  }
+}

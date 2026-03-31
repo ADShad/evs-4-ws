@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
@@ -29,12 +29,14 @@
         <div class="col-md-12">
           <div id="wrapper">
             <section class="content">
-              
               <div class="d-flex">
                 <p class="question mr-2"></p>
-                <p class="question">You are given natural ingredients. For each one, write an item you would like to colour and the colour you expect.</p>
+                <p class="question">
+                  You are given natural ingredients. For each one, write an item
+                  you would like to colour and the colour you expect.
+                </p>
               </div>
-              
+
               <div class="dragndrop-ques">
                 <ol type="b" id="questions-list"></ol>
               </div>
@@ -89,7 +91,9 @@
       </div>
     </div>
 
-    <audio controls id="audio-intro" class="hide"></audio>
+    <audio controls id="audio-intro" class="hide">
+      <source src="./audio/main.mp3" type="audio/mp3" />
+    </audio>
     <audio id="audio-try-again">
       <source src="../../audio/try-again.mp3" type="audio/mp3" />
     </audio>
@@ -98,7 +102,13 @@
     </audio>
 
     <script type="text/javascript">
-      const questions = [{"title": "Natural Ingredient_____Item to Colour_____Expected Colour _____  _____", "answers": ["Turmeric", "Spinach", "Beetroot", "Henna"]}];
+      const questions = [
+        {
+          title:
+            "Natural Ingredient_____Item to Colour_____Expected Colour _____  _____",
+          answers: ["Turmeric", "Spinach", "Beetroot", "Henna"],
+        },
+      ];
     </script>
     <script type="text/javascript">
       jQuery(document).ready(function () {
