@@ -71,11 +71,11 @@ var readerApp = {
         // Get viewport dimensions
         const viewportWidth = Math.max(
           document.documentElement.clientWidth || 0,
-          window.innerWidth || 0
+          window.innerWidth || 0,
         );
         const viewportHeight = Math.max(
           document.documentElement.clientHeight || 0,
-          window.innerHeight || 0
+          window.innerHeight || 0,
         );
 
         if (
@@ -88,11 +88,11 @@ var readerApp = {
           // Calculate responsive dimensions
           let responsiveWidth = Math.min(
             parseInt(iSize[0]),
-            viewportWidth * 0.9
+            viewportWidth * 0.9,
           ); // 90% of viewport width
           let responsiveHeight = Math.min(
             parseInt(iSize[1]),
-            viewportHeight * 0.9
+            viewportHeight * 0.9,
           ); // 90% of viewport height
 
           // Maintain aspect ratio
@@ -176,7 +176,7 @@ var readerApp = {
       };
 
       $("#video-container").html(
-        '<div id="jp_container_1" class="jp-video jp-video-480p" role="application" aria-label="media player"><div class="jp-type-single"><div id="jquery_jplayer_1" class="jp-jplayer"></div><div class="jp-gui"><div class="jp-video-play"><button class="jp-video-play-icon" role="button" tabindex="0">play</button></div><div class="jp-interface"><div class="jp-progress"><div class="jp-seek-bar"><div class="jp-play-bar"></div></div></div><div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div><div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div><div class="jp-controls-holder"><div class="jp-controls"><button class="jp-play" role="button" tabindex="0">play</button><button class="jp-stop" role="button" tabindex="0">stop</button></div><div class="jp-volume-controls"><button class="jp-mute" role="button" tabindex="0">mute</button><button class="jp-volume-max" role="button" tabindex="0">max volume</button><div class="jp-volume-bar"><div class="jp-volume-bar-value"></div></div></div><div class="jp-toggles"><button class="jp-full-screen" role="button" tabindex="0">full screen</button></div></div></div></div><div class="jp-no-solution"><span>Uh oh! Video not supported.</span></div></div></div>'
+        '<div id="jp_container_1" class="jp-video jp-video-480p" role="application" aria-label="media player"><div class="jp-type-single"><div id="jquery_jplayer_1" class="jp-jplayer"></div><div class="jp-gui"><div class="jp-video-play"><button class="jp-video-play-icon" role="button" tabindex="0">play</button></div><div class="jp-interface"><div class="jp-progress"><div class="jp-seek-bar"><div class="jp-play-bar"></div></div></div><div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div><div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div><div class="jp-controls-holder"><div class="jp-controls"><button class="jp-play" role="button" tabindex="0">play</button><button class="jp-stop" role="button" tabindex="0">stop</button></div><div class="jp-volume-controls"><button class="jp-mute" role="button" tabindex="0">mute</button><button class="jp-volume-max" role="button" tabindex="0">max volume</button><div class="jp-volume-bar"><div class="jp-volume-bar-value"></div></div></div><div class="jp-toggles"><button class="jp-full-screen" role="button" tabindex="0">full screen</button></div></div></div></div><div class="jp-no-solution"><span>Uh oh! Video not supported.</span></div></div></div>',
       );
 
       if (
@@ -380,7 +380,7 @@ var readerApp = {
     }
 
     $("#side-menu-wrapper").html(
-      '<ul class="nav" id="side-menu">' + menuListHTML + "</ul>"
+      '<ul class="nav" id="side-menu">' + menuListHTML + "</ul>",
     );
     $("#side-menu").metisMenu(); //MetsiMenu
 
@@ -425,7 +425,7 @@ var readerApp = {
             .removeClass("hide")
             .find(".alert")
             .text(
-              "Please enter page number between 1 and " + eBookConfig.total
+              "Please enter page number between 1 and " + eBookConfig.total,
             );
 
           setTimeout(function () {
@@ -534,7 +534,7 @@ var readerApp = {
         });
         readerApp.storage.set(
           appdb.config.id + "_bookmark",
-          JSON.stringify(bookmarksList)
+          JSON.stringify(bookmarksList),
         );
       }
 
@@ -557,7 +557,7 @@ var readerApp = {
           });
           readerApp.storage.set(
             appdb.config.id + "_bookmark",
-            JSON.stringify(bookmarksList)
+            JSON.stringify(bookmarksList),
           );
         }
       }
@@ -598,7 +598,7 @@ var readerApp = {
 						<strong>No Bookmarks Yet.</strong>\
 						<i class="fa fa-angle-right"></i>\
 					</div>\
-				</li>'
+				</li>',
         );
       } else {
         var bookingHTML = "";
@@ -686,7 +686,7 @@ var readerApp = {
             height +
             "px; width: " +
             width +
-            'px;" class="searchlight" id="spotlight-section"></div>'
+            'px;" class="searchlight" id="spotlight-section"></div>',
         );
         this.init();
       }
@@ -738,7 +738,7 @@ var readerApp = {
             "</b> \
 						</div>\
 					</a>\
-				</li>"
+				</li>",
         );
       }
     }
@@ -752,7 +752,7 @@ var readerApp = {
 						<strong>No Highlights Yet.</strong>\
 						<i class="fa fa-angle-right"></i>\
 					</div>\
-				</li>'
+				</li>',
       );
     }
   },
@@ -832,7 +832,7 @@ var readerApp = {
               "\
                                 </div>\
                             </a>\
-                        </li>"
+                        </li>",
           );
         }
       }
@@ -850,7 +850,7 @@ var readerApp = {
 						<strong>No Notes Yet.</strong>\
 						<i class="fa fa-angle-right"></i>\
 					</div>\
-				</li>'
+				</li>',
       );
     }
   },
@@ -968,7 +968,7 @@ var readerApp = {
                   currentPage +
                   '</td></tr><tr><td id="' +
                   newId +
-                  '"></td></tr>'
+                  '"></td></tr>',
               );
               $("#" + newId).append(aud);
 
@@ -991,7 +991,7 @@ var readerApp = {
                   saveAudioInStorage(
                     audiopath + filename,
                     filename,
-                    $("#record-pages-list option:selected").val()
+                    $("#record-pages-list option:selected").val(),
                   );
                 });
               }
@@ -1222,7 +1222,7 @@ var readerApp = {
 				</div>";
     }
     $("#book-thumbnail").html(
-      '<div class="owl-carousel owl-theme">' + thumbailHTML + "</div>"
+      '<div class="owl-carousel owl-theme">' + thumbailHTML + "</div>",
     );
     $(".owl-carousel").owlCarousel({
       loop: false,
@@ -1334,7 +1334,7 @@ $(window).on("message", function (e) {
     readerApp.turnPage(splitData[1]);
   } else if (splitData[0] == "canvas") {
     $("#tools-pageselection").val(
-      parseInt(splitData[1]) - appdb.config.prePages.length
+      parseInt(splitData[1]) - appdb.config.prePages.length,
     );
     setStorage(LAST_CANVAS, splitData[1]);
   }
@@ -1472,7 +1472,7 @@ function loadAudioFromStorage() {
         currentPage +
         '</td></tr><tr><td id="' +
         newId +
-        '"></td></tr>'
+        '"></td></tr>',
     );
     $("#" + newId).append(aud);
   }
@@ -1595,3 +1595,19 @@ function bookOnlyPreview() {
 //     resizeBook();
 //   }, 2000);
 // });
+
+// Use the 'Capture' phase to beat Turn.js to the punch
+document.addEventListener(
+  "touchstart",
+  function (e) {
+    var target = e.target.closest(".regionPos");
+    if (target) {
+      // Stop the event from ever reaching Turn.js
+      e.stopPropagation();
+
+      // Trigger your click manually
+      // target.click();
+    }
+  },
+  true,
+); // The "true" here is the Capture flag

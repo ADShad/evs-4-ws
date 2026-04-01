@@ -1,7 +1,7 @@
 const PAGES_LINKING = {
   4: [
     {
-      x: 80,
+      x: 90,
       y: 4,
       title: "true_false \u00b7 page 4",
       icon: "img/icons/interactivites.gif",
@@ -12,7 +12,7 @@ const PAGES_LINKING = {
   ],
   6: [
     {
-      x: 80,
+      x: 90,
       y: 4,
       title: "mcq_new \u00b7 page 6",
       icon: "img/icons/interactivites.gif",
@@ -96,7 +96,7 @@ const PAGES_LINKING = {
   ],
   16: [
     {
-      x: 80,
+      x: 90,
       y: 4,
       title: "mcq_new \u00b7 page 16",
       icon: "img/icons/interactivites.gif",
@@ -137,7 +137,7 @@ const PAGES_LINKING = {
   ],
   20: [
     {
-      x: 80,
+      x: 90,
       y: 4,
       title: "mcq_new \u00b7 page 20",
       icon: "img/icons/interactivites.gif",
@@ -201,7 +201,7 @@ const PAGES_LINKING = {
   ],
   26: [
     {
-      x: 80,
+      x: 90,
       y: 4,
       title: "match_columns \u00b7 page 26",
       icon: "img/icons/interactivites.gif",
@@ -230,7 +230,7 @@ const PAGES_LINKING = {
   ],
   30: [
     {
-      x: 80,
+      x: 90,
       y: 4,
       title: "odd_one_out \u00b7 page 30",
       icon: "img/icons/interactivites.gif",
@@ -241,7 +241,7 @@ const PAGES_LINKING = {
   ],
   32: [
     {
-      x: 80,
+      x: 90,
       y: 4,
       title: "fib \u00b7 page 32",
       icon: "img/icons/interactivites.gif",
@@ -261,7 +261,7 @@ const PAGES_LINKING = {
   ],
   38: [
     {
-      x: 80,
+      x: 90,
       y: 4,
       title: "mcq_new \u00b7 page 38",
       icon: "img/icons/interactivites.gif",
@@ -290,7 +290,7 @@ const PAGES_LINKING = {
   ],
   42: [
     {
-      x: 80,
+      x: 90,
       y: 4,
       title: "mcq_new \u00b7 page 42",
       icon: "img/icons/interactivites.gif",
@@ -312,7 +312,7 @@ const PAGES_LINKING = {
   ],
   44: [
     {
-      x: 80,
+      x: 90,
       y: 4,
       title: "fib \u00b7 page 44",
       icon: "img/icons/interactivites.gif",
@@ -323,7 +323,7 @@ const PAGES_LINKING = {
   ],
   46: [
     {
-      x: 80,
+      x: 90,
       y: 4,
       title: "fib \u00b7 page 46",
       icon: "img/icons/interactivites.gif",
@@ -365,7 +365,7 @@ const PAGES_LINKING = {
   ],
   54: [
     {
-      x: 80,
+      x: 90,
       y: 4,
       title: "mcq_new \u00b7 page 54",
       icon: "img/icons/interactivites.gif",
@@ -418,7 +418,7 @@ const PAGES_LINKING = {
   ],
   60: [
     {
-      x: 80,
+      x: 90,
       y: 4,
       title: "mcq_new \u00b7 page 60",
       icon: "img/icons/interactivites.gif",
@@ -438,7 +438,7 @@ const PAGES_LINKING = {
   ],
   62: [
     {
-      x: 80,
+      x: 90,
       y: 4,
       title: "fib \u00b7 page 62",
       icon: "img/icons/interactivites.gif",
@@ -458,7 +458,7 @@ const PAGES_LINKING = {
   ],
   68: [
     {
-      x: 80,
+      x: 90,
       y: 4,
       title: "mcq_new \u00b7 page 68",
       icon: "img/icons/interactivites.gif",
@@ -478,7 +478,7 @@ const PAGES_LINKING = {
   ],
   70: [
     {
-      x: 80,
+      x: 90,
       y: 4,
       title: "true_false \u00b7 page 70",
       icon: "img/icons/interactivites.gif",
@@ -654,22 +654,22 @@ const PAGES_LINKING = {
   //     size: "1024x700",
   //   },
   // ],
-  // 80: [
+  // 90: [
   //   {
   //     x: 90,
   //     y: 4,
-  //     title: "mcq_new \u00b7 page 80",
+  //     title: "mcq_new \u00b7 page 90",
   //     icon: "img/icons/interactivites.gif",
-  //     link: "resources/interactivities/mcq_new/chap_3_ws_80_0.html",
+  //     link: "resources/interactivities/mcq_new/chap_3_ws_90_0.html",
   //     type: "iframe",
   //     size: "1024x700",
   //   },
   //   {
   //     x: 90,
   //     y: 12,
-  //     title: "mcq_new \u00b7 page 80",
+  //     title: "mcq_new \u00b7 page 90",
   //     icon: "img/icons/interactivites.gif",
-  //     link: "resources/interactivities/mcq_new/chap_3_ws_80_2.html",
+  //     link: "resources/interactivities/mcq_new/chap_3_ws_90_2.html",
   //     type: "iframe",
   //     size: "1024x700",
   //   },
