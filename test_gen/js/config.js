@@ -6,12 +6,12 @@ var imagePath = "img/q_img/";
 var questions = [
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Planting trees"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -28,12 +28,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "On the playground"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -50,12 +50,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Talk with each other"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -72,12 +72,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Sameer"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -94,12 +94,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Bamboo and stones"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -116,12 +116,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "False"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -133,12 +133,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "True"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -150,12 +150,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "False"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -167,12 +167,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "True"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -184,12 +184,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "True"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -201,12 +201,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "trees"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -218,12 +218,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "park"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -235,12 +235,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "community feast"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -252,12 +252,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "community"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -269,12 +269,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "Cooperation"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -286,12 +286,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Tree"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -305,12 +305,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Park"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -324,12 +324,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Community"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -343,12 +343,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Cooperation"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -362,12 +362,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Festival"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -381,12 +381,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Mallika wants to clean and plant trees so that her grandmother and her friends can enjoy their morning walks more and breathe cleaner air."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -400,12 +400,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "People plant trees during Van Mahotsav to protect the environment and make the earth greener."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -419,12 +419,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "The bridge allowed students to reach their schools easily, especially during the rainy season when the river would otherwise overflow and block their path."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -438,12 +438,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "I can keep the park clean by making sure not to litter and by disposing of any trash in designated dustbins."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -457,12 +457,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Chandan and his friends prepare for Van Mahotsav by planning to clean the local park, planting new trees, and inviting their family members to participate in the celebration."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -476,12 +476,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Working together is important because it builds a sense of belongingness, allows people to solve problems faster, and helps improve the community for everyone's benefit."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -495,12 +495,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "1. School: a place to learn new things. 2. Hospital: a place to get treatment for illness. 3. Playground: a place to play games and relax."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -514,12 +514,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "The community members in Kanker came together and built a simple but strong bridge using bamboo, stones, and other available materials in just two days."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -533,12 +533,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "The people celebrated by dividing themselves into groups to clean the park, repair benches and street lights, and plant saplings. They also held a community feast where they shared food. These efforts made the park look beautiful, clean, and inviting for everyone to enjoy."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -552,12 +552,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "Once, my friends and I worked together to clean our school garden by removing weeds and picking up trash. We divided the tasks among ourselves to finish quickly. It felt very satisfying to see our hard work make the garden look neat and beautiful, and it made us feel proud to help our school."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -571,12 +571,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Cleaning the park helps maintain a healthy environment, provides a safe and pleasant place for people to walk and exercise, and keeps the area beautiful for everyone."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -590,12 +590,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Littering in public places is harmful because it makes the environment dirty, spreads diseases, and makes public areas unpleasant for people to use."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -609,12 +609,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Helping friends plant trees is a great way to work together, improve our environment, and make our surroundings greener and more beautiful."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -628,12 +628,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "We should never leave water taps running because water is a precious natural resource and we must avoid wasting it."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -647,12 +647,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "A teacher."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -666,12 +666,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "A shopkeeper."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -685,12 +685,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "A gardener."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -704,12 +704,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "A postal worker."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -723,12 +723,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "A doctor."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -742,12 +742,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "I love that my community works together like a team to help each other during festivals or times of need. When we cooperate to solve problems, like cleaning a park or building a bridge, it creates a sense of belonging and makes life better for everyone. These shared experiences help us build strong bonds and lasting memories with our neighbors."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -761,12 +761,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "We can help our community by working together, participating in activities like cleanliness drives and tree plantations, and maintaining public spaces. Helping others and cooperating helps build a stronger, cleaner, and more inclusive environment for everyone."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -780,12 +780,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 1",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "Grow Green with Us! Date: 5th July. Time: 9 AM. Place: Park. Join us to plant trees and make our Earth greener! We look forward to seeing everyone there to help improve our local environment."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -799,12 +799,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Her grandfather"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -821,12 +821,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "In a postbox"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -843,12 +843,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Flyovers"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -865,12 +865,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Take out money"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -887,12 +887,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "On the right"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -909,12 +909,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "True"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -926,12 +926,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "False"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -943,12 +943,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "False"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -960,12 +960,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "True"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -977,12 +977,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "False"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -994,12 +994,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "postbox"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1011,12 +1011,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "communication"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1028,12 +1028,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "metro"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1045,12 +1045,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "bank"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1062,12 +1062,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "directions"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1077,36 +1077,15 @@ var questions = [
       "option": []
     }
   },
+  
   {
     "subject": "",
-    "class": "class-5",
-    "book": "EVS-4_worksheet",
-    "chapter": "Chapter 2",
-    "type": "Match the Following",
-    "answer": [
-      "Ans"
-    ],
-    "difficulty": "M",
-    "outcome": "Apply",
-    "mark": 1,
-    "question": {
-      "title": "Match the item on the left with the right.",
-      "option": [
-        "A. (Post Office) ^ 1. Keeps money safe",
-        "B. (Hospital) ^ 2. Sends letters and parcels",
-        "C. (Bank) ^ 3. Helps people travel",
-        "D. (Bus Stop) ^ 4. Treats sick people"
-      ]
-    }
-  },
-  {
-    "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "LETTER"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1118,12 +1097,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "FLYOVER"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1135,12 +1114,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "MAP"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1152,12 +1131,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "MONEY"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1169,12 +1148,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "HOSPITAL"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1186,12 +1165,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Navya sees a red postbox on the corner and a metro train passing by."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1205,12 +1184,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "People visit hospitals when they are unwell to get treatment or check-ups."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1224,12 +1203,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Today, people can use mobile phones to send money online."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1243,12 +1222,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "On a map, the South is shown downward."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1262,12 +1241,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "The post office helps people stay connected by sorting and sending letters, parcels, and important documents to their destinations."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1281,12 +1260,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Flyovers and metro trains are important because they help vehicles and commuters travel much faster and save time by moving above busy roads and traffic."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1300,12 +1279,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "The bank keeps money safe for Navya's family and helps them save it for future needs."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1319,12 +1298,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Navya learned that on a map, North is upward, South is downward, East is on the right, and West is on the left."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1338,12 +1317,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "Navya and her grandfather explored their neighbourhood by taking the market route home. During their journey, they discussed the importance of the post office for communication, observed the speed of metro trains, learned about the time-saving benefits of flyovers, and visited a bank to understand how money is kept safe and accessed via ATMs."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1357,12 +1336,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "In a bank or post office, you would see people working to provide essential services to the community. A post office connects people through letters and parcels, while a bank provides a safe place to store money and plan for the future. These institutions are vital as they simplify daily tasks like communication and financial management, making life easier for everyone."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1376,12 +1355,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Saving money in a piggy bank is a good habit, so it should be written in a star."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1395,12 +1374,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Throwing litter at the bus stop is a bad habit that harms our neighbourhood, so it should be marked in a circle."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1414,12 +1393,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "The chapter mentions e-rickshaws as a mode of transport waiting at the school gate."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1433,12 +1412,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "The chapter mentions the metro train as a mode of transportation that travels very fast."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1452,12 +1431,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "I love the public library because it provides books and a quiet space for me to learn and discover new things."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1471,12 +1450,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 2",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "I can keep my neighbourhood clean by not littering and safe by following traffic rules and respecting public property."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1490,12 +1469,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Pachmarhi"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1512,12 +1491,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Banyan"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1534,12 +1513,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Long beak"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1556,12 +1535,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Spectacled Monkey"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1578,12 +1557,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Webbed feet"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1600,12 +1579,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "False"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1617,12 +1596,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "True"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1634,12 +1613,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "False"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1651,12 +1630,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "True"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1668,12 +1647,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "False"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1685,12 +1664,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "footprints"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1702,12 +1681,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "beak"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1719,12 +1698,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "forest"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1736,12 +1715,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "insect"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1753,12 +1732,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "connected web"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1770,12 +1749,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "The word is FOOTPRINT. It is a mark left by the foot of an animal or person on the ground."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1789,12 +1768,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "An elephant has a long trunk to take food and water."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1808,12 +1787,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Safety rules in a forest include not teasing animals, not feeding them, not damaging plants, and not throwing garbage."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1827,12 +1806,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "A nature scientist is someone who studies plants and animals."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1846,12 +1825,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "The world is often referred to as one family, representing the concept of 'Vasudhaiva Kutumbakam'."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1865,12 +1844,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Pachmarhi is located in the state of Madhya Pradesh."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1884,12 +1863,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Fish have fins that help them swim in water."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1903,12 +1882,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "A grasshopper is one insect found in the forest."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1922,12 +1901,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "The students played a game called the 'web of life' to learn about the interdependence of living things in nature."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1941,12 +1920,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "Safety rules protect the well-being of both humans and animals in the forest. By not teasing or feeding animals, we avoid dangerous encounters and keep them healthy. Additionally, not damaging plants or throwing garbage ensures that we do not harm the natural home where these creatures live."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1960,12 +1939,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "Different beaks are adapted to the specific food a bird eats. For example, birds like sparrows have short, strong beaks to crack open hard seeds. In contrast, birds like sunbirds have long, thin beaks to reach deep into flowers to drink nectar, while birds of prey like eagles have sharp, curved beaks to catch and tear their food."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1979,12 +1958,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "Animals that live in water have special body features to help them move and survive. For example, fish have fins that help them swim effectively through the water. Other animals, like turtles, have webbed feet to paddle and strong shells to protect themselves from predators."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -1998,12 +1977,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Plants and animals are connected through interdependence, such as trees providing food and shelter for birds and other animals. When one part of this system is removed, it affects the others, showing that everything in nature is part of a delicate 'web of life'."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2017,12 +1996,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "During their nature trail in Pachmarhi, students saw a variety of animals like the Indian Giant Squirrel, deer, and hornbills, as well as many tall trees. They learned how to identify animals by their features and footprints and explored how different birds have unique beaks for eating. They also learned about the importance of safety rules and understood the interdependence of all living things through the 'web of life' game."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2036,12 +2015,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "On a nature walk, I observed different types of leaves, insects like ants, and birds chirping in the trees. Seeing these living things in their natural environment helped me appreciate how they work together to keep the world healthy. This experience taught me that I should protect nature by not littering and by being respectful of all living creatures."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2055,12 +2034,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "I saw a squirrel in my neighbourhood. It is special because it is very fast, has a bushy tail, and is excellent at climbing trees to find food."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2074,12 +2053,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "I can help protect plants and animals by not littering in parks or forests and by not damaging flowers or trees. I can also show care by not disturbing animal homes and by encouraging others to treat all living things with kindness."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2093,12 +2072,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 3",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "I observed a sparrow, which has brownish-grey feathers and a small beak; it eats seeds and grains found on the ground. I like this bird because it is very active, chirps cheerfully throughout the day, and is a common, friendly visitor in my garden."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2112,12 +2091,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 4",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Palash"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2134,12 +2113,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 4",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "In a big field"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2156,12 +2135,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 4",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Gond"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2178,12 +2157,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 4",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Neem leaves"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2200,12 +2179,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 4",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Neem"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2222,12 +2201,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 4",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "False"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2239,12 +2218,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 4",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "True"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2256,12 +2235,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 4",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "True"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2273,12 +2252,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 4",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "False"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2290,12 +2269,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 4",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "True"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2307,12 +2286,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 4",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "Sacred groves are small patches of forest that are protected by local communities. Within these areas, trees and wildlife are preserved rather than being harmed. These groves serve as important places for the community to gather, worship, and celebrate the beauty of nature."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2326,12 +2305,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 4",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "Reena and Amit celebrated by joining the villagers in traditional clothing, listening to the music of dhol and nagada, and participating in a traditional dance. They offered prayers to God and mother nature before the festivities. Through their visit, they learned about the deep, respectful connection villagers have with nature and the importance of preserving it."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2345,12 +2324,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 4",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "In a village, one might see houses made from natural materials like clay and hay, and people using traditional methods to protect food or repel insects using plants like neem. Observing these practices teaches us how to live in harmony with the environment. We learn to value nature's resources, practice sustainable living, and protect the plants and animals around us."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2364,12 +2343,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 4",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Good habits (Star): (ii) Planting trees, (iv) Keeping water for birds. Bad habits (Circle): (i) Using plastic bags, (iii) Wasting paper, (v) Burning leaves."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2383,12 +2362,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 4",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "The Palash tree, also known as the 'flame of forest'."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2402,12 +2381,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 4",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Neem (or specifically, neem oil is used as a natural mosquito repellent)."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2421,12 +2400,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 4",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Tulsi (Indian basil) is a medicinal herb that is often used for its healing properties."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2440,12 +2419,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 4",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "The Jenu Kurubas collect honey from beehives."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2459,12 +2438,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 4",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "A sacred grove is a small patch of forest that is protected by local communities to preserve its trees and wildlife."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2478,12 +2457,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 4",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "A natural dye or paint can be made using extracts from flowers, leaves, barks, and roots."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2497,12 +2476,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 4",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Solar energy, captured through solar panels, is used to power the village lights and appliances."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2516,12 +2495,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 4",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "An example of an herbal garden could include: 1. Tulsi, which is used for treating colds and coughs. 2. Ajwain, which is used for digestion and stomach issues. 3. Aloe Vera, which is used to soothe skin burns and cuts. These herbs are important natural remedies kept in or near homes."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2535,12 +2514,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 4",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "One important lesson is that we should respect nature, such as apologizing to bees when collecting honey or worshipping plants and animals to show gratitude."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2554,12 +2533,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 4",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "We can save natural resources at home by reducing paper waste, saying no to plastic, and conserving water and electricity."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2573,12 +2552,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Ugadi Pachadi"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2595,12 +2574,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Rice"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2617,12 +2596,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Chips"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2639,12 +2618,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Jowar Roti"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2661,12 +2640,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Water"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2683,12 +2662,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "False"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2700,12 +2679,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "True"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2717,12 +2696,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "False"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2734,12 +2713,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "True"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2751,12 +2730,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "False"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2768,12 +2747,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "energy"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2785,12 +2764,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "thali"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2802,12 +2781,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "junk"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2819,12 +2798,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "Rasa"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2836,12 +2815,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "diary"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2853,12 +2832,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "PACHADI"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2870,12 +2849,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "NUTRIENTS"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2887,12 +2866,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "JUNK"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2904,12 +2883,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "BALANCED"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2921,12 +2900,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "BAJRA"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2938,12 +2917,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Sweet (meetha) is one of the six tastes in Shad Rasa."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2957,12 +2936,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Rice is an energy-giving food."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2976,12 +2955,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Soft drinks are a type of junk food that should be avoided."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -2995,12 +2974,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "The banner said 'Colours on Plate, Wellness in Life'."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3014,12 +2993,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Ugadi Pachadi is a traditional food of Andhra Pradesh, Karnataka, and Telangana that is special because it is made with six different taste elements: sweet, sour, salty, pungent, bitter, and astringent."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3033,12 +3012,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "We should eat foods from all groups because our body requires a variety of nutrients for balanced growth, and no single food contains all the nutrients needed to stay healthy, energetic, and strong."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3052,12 +3031,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Junk food is unhealthy because it contains high amounts of oil, salt, and sugar, and consuming it regularly or in large quantities is not good for our body."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3071,12 +3050,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Water helps our body by digesting food, keeping the skin and body healthy, and removing waste from the body through urine, sweat, and faeces."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3090,12 +3069,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "The food festival showcased a variety of traditional dishes like dhokla, ragi laddu, and jowar upma, highlighting the diversity of food. Students learned about the 'shad rasa' (six tastes), the importance of balanced nutrition from different food groups, and the benefits of eating healthy, home-cooked meals. They also learned to value different ingredients and understand how various foods contribute to energy, body-building, and disease prevention."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3109,12 +3088,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "At my home food festival, I included energy-rich foods like roasted corn and bajre-ki-khichdi, body-building foods like lentil-based dishes, and protective foods like fresh fruit salads. By organizing this, I learned that a balanced plate requires right quantities from all food groups. I also realized the importance of mindful eating and how different foods work together to keep us active, happy, and strong."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3128,12 +3107,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Idli"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3147,12 +3126,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Dosa"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3166,12 +3145,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "We should not waste food because it involves the hard efforts of many people, animals, and elements of nature in its production. Respecting these contributions means we should care for each grain and avoid waste."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3185,12 +3164,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "You can make your meals healthier by ensuring your plate is balanced with the right quantities of protective foods (fruits and vegetables), body-building foods, and energy-providing foods. You should also prioritize fresh home-cooked meals over over-processed or packaged junk food."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3204,12 +3183,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 5",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "To create a food collage, categorize items into three groups: energy-giving foods (like rice or wheat), body-building foods (like pulses or milk), and protective foods (like fruits and vegetables). For the collage, list the food name, its primary benefit (e.g., provides energy, builds muscles, or fights diseases), and a short note on why it is important for your health. This activity helps visualize a balanced diet and ensures you understand the role of different nutrients in your daily meals."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3223,12 +3202,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Soil"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3245,12 +3224,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Cycling"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3267,12 +3246,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Focusing on each bite"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3289,12 +3268,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Sleep"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3311,12 +3290,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Watching cartoons"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3333,12 +3312,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "False"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3350,12 +3329,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "False"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3367,12 +3346,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "True"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3384,12 +3363,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "False"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3401,12 +3380,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "False"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3418,12 +3397,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "farmer"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3435,12 +3414,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "gratitude"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3452,12 +3431,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "yoga"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3469,12 +3448,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "sleep"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3486,12 +3465,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "safe"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3501,36 +3480,15 @@ var questions = [
       "option": []
     }
   },
+  
   {
     "subject": "",
-    "class": "class-5",
-    "book": "EVS-4_worksheet",
-    "chapter": "Chapter 6",
-    "type": "Match the Following",
-    "answer": [
-      "Ans"
-    ],
-    "difficulty": "M",
-    "outcome": "Apply",
-    "mark": 1,
-    "question": {
-      "title": "Match the item on the left with the right.",
-      "option": [
-        "A. (Image of soil) ^ 1. Sows seeds",
-        "B. (Image of a farmer) ^ 2. Helps grains grow",
-        "C. (Image of a watering can) ^ 3. Pulls plough",
-        "D. (Image of a bull) ^ 4. Nourishes plants"
-      ]
-    }
-  },
-  {
-    "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Farmers work hard to sow seeds and grow crops, which is the beginning of the food's journey to our plate."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3544,12 +3502,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Mindful eating means paying close attention to the taste, texture, and smell of our food while eating slowly, which helps us enjoy meals and make healthier choices."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3563,12 +3521,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Regular physical activities like playing in open fields, running, jumping, cycling, and skipping keep our body strong and energetic."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3582,12 +3540,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "If someone makes you feel uncomfortable, you should firmly say 'No' and tell a trusted adult, such as a parent or teacher."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3601,12 +3559,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Yoga is an exercise that helps improve our posture and keeps us happy and active."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3620,12 +3578,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Soil is an essential element that helps grains grow."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3639,12 +3597,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Your tongue helps you feel the surface of the food and experience its flavor and taste."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3658,12 +3616,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Cycling is a physical activity that helps keep our body healthy and active."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3677,12 +3635,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "If you feel unsafe, you should inform a trusted adult, such as your teacher or your parents."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3696,12 +3654,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "We should not waste food because it is precious and every grain takes a long journey to reach our plate. When we waste food, we fail to respect the hard efforts of the farmers, sellers, and others who work to provide it for us."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3715,12 +3673,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "Mindful eating is the practice of paying full attention to the food we eat, including its texture, taste, and flavor, by eating slowly. It helps us enjoy our food better, make healthier choices, and appreciate the food we have."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3734,12 +3692,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "Exercise keeps us healthy by making us strong and energetic through activities like running, jumping, cycling, and playing. Additionally, activities like yoga improve our posture and help keep our mind and body happy and active."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3753,12 +3711,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "A safe touch is a comforting gesture, like a hug from a family member, that makes you feel happy and comfortable. An unsafe touch is any touch that makes you feel uneasy, scared, confused, or uncomfortable, whether it comes from a stranger or someone you know."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3772,12 +3730,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "The journey of a grain begins at the farm where soil, water, and sunlight help it grow, followed by the hard work of farmers and sellers to bring it to our plate. Learning about this journey teaches us to feel gratitude toward the people and nature that provide our food. Recognizing these contributors helps us value every grain and enjoy our meals more."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3791,12 +3749,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "During mindful eating, I focused on the texture and taste of my food by chewing slowly, which helped me enjoy every bite. Through daily yoga, I practiced different poses that improved my posture and made me feel more active. Overall, these habits made me feel fresh, healthy, and more aware of my body's needs."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3810,12 +3768,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "Sufficient sleep is important because it takes away tiredness and makes our body feel fresh. Without enough sleep, we find it difficult to focus on work or play and may feel irritable or sleepy. Getting enough rest is just as essential for our well-being as eating healthy food and exercising."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3829,12 +3787,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "If you ever feel unsafe or uncomfortable due to someone's touch, it is important to speak up immediately. You should firmly say 'No' to the person and walk away. Then, tell a trusted adult, such as your parents or your teacher, about the situation so they can help you."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3848,12 +3806,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 6",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "Dear Farmer, thank you for your hard work! You grow the grains that I eat every day, which helps me stay healthy and strong. I truly appreciate your dedication to bringing food to our plates."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3867,12 +3825,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 7",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Coin"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3889,12 +3847,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 7",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "At the center"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3911,12 +3869,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 7",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Light material"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3933,12 +3891,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 7",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "It sinks"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3955,12 +3913,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 7",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Lattu"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3977,12 +3935,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 7",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "False"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -3994,12 +3952,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 7",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "True"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4011,12 +3969,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 7",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "False"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4028,12 +3986,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 7",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "True"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4045,12 +4003,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 7",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "True"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4062,12 +4020,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 7",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "spin"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4079,12 +4037,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 7",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "float"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4096,12 +4054,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 7",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "sink"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4113,12 +4071,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 7",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "balance"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4130,12 +4088,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 7",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "shape"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4147,12 +4105,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 7",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "SPINS"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4166,12 +4124,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 7",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "FLOAT"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4185,12 +4143,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 7",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "SINK"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4204,12 +4162,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 7",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "BOAT"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4223,12 +4181,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 7",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "PAPER"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4242,12 +4200,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 7",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "A coin is an object that can spin."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4261,12 +4219,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 7",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "A leaf floats in water because it is light."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4280,12 +4238,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 7",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "An iron nail is a heavy object that sinks in water."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4299,12 +4257,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 7",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "You can use materials like cardboard or ice-cream sticks to build a boat that floats."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4318,12 +4276,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 7",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "The chapter text notes that as a spinning coin slows down, it begins to shake, but it explains that students are not expected to provide a formal theoretical reason for this; it is a common observation of how things behave when losing momentum."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4337,12 +4295,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 7",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "The shape determines whether it floats or sinks; when the foil is spread out or shaped like a cup, it floats, but when it is pressed tightly into a ball, it sinks."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4356,12 +4314,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 7",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "Meera and Dhruv explored spinning by testing various objects like coins, bangles, and handmade spinners made of cardboard and toothpicks. They learned that the position of the hole affects how well a spinner functions and that spinning objects, like square cards, can appear circular when moving fast."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4375,12 +4333,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 7",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "I used materials like cardboard, ice-cream sticks, and adhesive to construct my boat. I tested it by placing it in water to see if it would float properly or tip over, and I adjusted the design to improve its balance."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4394,12 +4352,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 7",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Floating and sinking are not decided just by weight; they also depend on the object's shape and other factors. Changing an object's shape can make it float or sink, such as pressing aluminum foil into a ball to make it sink instead of float."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4413,12 +4371,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 7",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "To improve a spinner's balance, you can adjust factors like the position of the hole, the length of the toothpick at the bottom, and the overall alignment of the cardboard piece."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4432,12 +4390,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 7",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "To design the spinner, cut a circle out of cardboard and carefully pierce a toothpick through its exact center to ensure it is balanced. Paint the circular cardboard with red and blue colors to see how the colors blend when it rotates. When you spin this balanced, multi-colored circular toy, it spins fast and displays interesting color patterns."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4451,12 +4409,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Fenugreek seeds"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4473,12 +4431,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Henna"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4495,12 +4453,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Cardboard"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4517,12 +4475,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Reuse"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4539,12 +4497,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Greeting card"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4561,12 +4519,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "True"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4578,12 +4536,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "False"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4595,12 +4553,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "True"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4612,12 +4570,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "False"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4629,12 +4587,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "True"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4646,12 +4604,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "pulp"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4663,12 +4621,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "ingredient"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4680,12 +4638,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "reuse"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4697,12 +4655,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "recycle"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4714,12 +4672,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "Cardboard"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4731,12 +4689,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "THICK"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4750,12 +4708,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "CUPS"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4769,12 +4727,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "PAPER"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4788,12 +4746,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "SPINACH"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4807,12 +4765,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "PULP"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4826,12 +4784,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Old newspapers."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4845,12 +4803,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Turmeric can be used to dye paper yellow."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4864,12 +4822,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "One kind of paper used every day is a notebook or drawing book."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4883,12 +4841,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "To make recycled paper, first tear old newspapers into small pieces and soak them in water overnight with some fenugreek seeds. Next, blend or mash the soaked mixture to create a wet pulp. Finally, spread this paste on a flat base, roll it out into thin sheets, and let them dry completely."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4902,12 +4860,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "Natural dyes are safe to use because they are made from different parts of plants such as leaves, flowers, roots, seeds, and stems. Since these ingredients are natural, they do not contain harmful chemicals. This makes them a safe option for coloring various materials like clothes and pots."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4921,12 +4879,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Tissue paper is very thin, soft, and absorbs water, which makes it ideal for cleaning. In contrast, cardboard is thick and hard, making it suitable for creating boxes for packing objects."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4940,12 +4898,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "We should follow the 5Rs to reduce the waste we generate in our daily lives. By practicing these, we can help our environment, save natural resources, and reduce the pollution caused by waste."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4959,12 +4917,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "Pihu learned to make paper by tearing old newspapers into small pieces and soaking them in water with fenugreek seeds overnight. She then blended the mixture into pulp, spread it on a flat base to dry into thin sheets, and decorated it. After making the recycled paper, she used it to create a beautiful greeting card as a special gift for her mother."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4978,12 +4936,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "I made a decorative pencil holder using recycled paper pulp. By repurposing old paper instead of throwing it away, I reduced the amount of waste sent to landfills. This process also saves trees and reduces the energy and water consumption required to produce new paper from wood pulp, which helps protect our environment."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -4997,12 +4955,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Good habits like using both sides of a paper should be marked with a star, while bad habits like throwing away unused paper should be marked with a circle."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5016,12 +4974,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Throwing away unused paper is a bad habit and should be marked in a circle."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5035,12 +4993,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Using both sides of a paper is a good habit and should be marked in a star."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5054,12 +5012,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Making toys from old newspapers is an example of Repurpose because it uses something in a new and innovative way."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5073,12 +5031,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Saying no to things that generate waste is called Refuse, which is the first step of the 5Rs of waste management."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5092,12 +5050,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Recycling old notebooks involves turning them into new items, like handmade paper, through a specific process."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5111,12 +5069,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Common words related to Pihu's activities in the chapter include Paper, Trees, Recycle, Reuse, Reduce, Refuse, and Repurpose."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5130,12 +5088,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Trees are used to make paper."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5149,12 +5107,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Natural ingredients like turmeric, spinach, beetroot, and henna are used to colour paper naturally."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5168,12 +5126,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Using something multiple times before discarding it is known as Reuse."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5187,12 +5145,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Recycling is the process that turns old materials into something new."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5206,12 +5164,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Cardboard is a type of thick and hard paper that is used for making boxes for packing various objects."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5225,12 +5183,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "A large number of trees are cut to get wood pulp, which is the main material used for making paper."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5244,12 +5202,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Newspaper is used for reading news; tissue paper is used for cleaning because it is thin and absorbent; cardboard is used for making packing boxes."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5263,12 +5221,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Recycling paper is important because it helps save trees, conserves water and energy, and reduces pollution caused by waste."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5282,12 +5240,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 8",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "You can reduce paper wastage by using both sides of a sheet for writing, reusing old notebooks, and recycling used paper into new items."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5301,12 +5259,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Makki di Roti"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5323,12 +5281,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Camel"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5345,12 +5303,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Puri"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5367,12 +5325,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Pine"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5389,12 +5347,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Rath Yatra"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5411,12 +5369,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "True"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5428,12 +5386,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "False"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5445,12 +5403,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "False"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5462,12 +5420,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "True"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5479,12 +5437,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "False"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5496,12 +5454,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "plains"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5513,12 +5471,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "desert"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5530,12 +5488,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "sand"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5547,12 +5505,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "mountains"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5564,12 +5522,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "cyclone"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5581,12 +5539,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "CAMEL"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5600,12 +5558,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "COASTAL"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5619,12 +5577,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "MOUNTAIN"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5638,12 +5596,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "PLAINS"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5657,12 +5615,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "CYCLONE"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5676,12 +5634,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Camel"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5695,12 +5653,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Rasagola"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5714,12 +5672,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Loosong"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5733,12 +5691,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Seaweed"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5752,12 +5710,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "The Golden Temple is a famous gold-plated Gurudwara surrounded by a serene sarovar that offers langar sewa, a community service providing free meals to everyone."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5771,12 +5729,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Water is scarce in deserts because they are dry areas that receive very little rainfall throughout the year."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5790,12 +5748,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Many people living in coastal regions depend on the sea for their livelihood, primarily through activities like fishing."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5809,12 +5767,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Mountain houses often have slanting roofs to allow snow and rain to slide off easily, preventing accumulation on top of the houses."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5828,12 +5786,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "Ritika visited the desert and learned that it is a dry place with very little rain, where plants like cactus and animals like camels survive. She observed that people wear colourful clothing and turbans, and live in houses made of mud with thatched roofs. She also learned about desert features like water-storing tankas and traditional folk music and dance."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5847,12 +5805,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "Visiting a coastal region like Puri, I would see vast beaches, artists creating sand art, and fishermen at sea. I would learn about the connection between nature and livelihood, as many people rely on the ocean for food and work. Observing the sea creatures and natural environment helps me understand the unique beauty and the challenges, such as cyclones, that come with living near the coast."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5866,12 +5824,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "It is important to keep beaches clean to protect marine life, maintain the natural beauty of the environment, and ensure a healthy ecosystem for the creatures that live there."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5885,12 +5843,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Communities can prepare for landslides by monitoring weather conditions, creating awareness about safety measures, and having evacuation plans ready for emergencies during the rainy season."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5904,12 +5862,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "Dear Diary, today I visited the beautiful mountains of Sikkim. The weather was cool and refreshing, and I enjoyed eating warm thukpa for lunch. We spent the afternoon watching a vibrant mask dance called chaam, which was an amazing experience."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5923,12 +5881,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "The camel is known as the ship of the desert because it is well-adapted to travel across the sandy, dry terrain."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5942,12 +5900,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "The plains are considered a fertile landform because they have rich soil that is ideal for farming and growing various crops."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5961,12 +5919,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "A coastal area is a region located along the seashore, where many people depend on activities like fishing for their livelihood."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5980,12 +5938,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "The yak is an animal commonly found in the mountains, such as in Sikkim, and is often used for travel in cold, high-altitude regions."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -5999,12 +5957,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "The cactus is a common desert plant that is specially adapted to survive in dry areas by storing water in its stem."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6018,12 +5976,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "The pine tree is a common type of tree found in mountain regions where the climate is cool and the terrain is often rocky."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6037,12 +5995,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 9",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "The coastal water refers to the sea or ocean, which provides resources like fish for food and seashells used for decoration or crafts."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6056,12 +6014,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 10",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Black"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6078,12 +6036,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 10",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Opposite direction"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6100,12 +6058,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 10",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Poornima"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6122,12 +6080,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 10",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Diwali"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6144,12 +6102,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 10",
     "type": "Multiple choice questions",
     "answer": [
-      "Ans"
+      "Telling time"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6166,12 +6124,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 10",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "True"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6183,12 +6141,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 10",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "False"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6200,12 +6158,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 10",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "True"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6217,12 +6175,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 10",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "True"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6234,12 +6192,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 10",
     "type": "True or False",
     "answer": [
-      "Ans"
+      "False"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6251,12 +6209,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 10",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "Sun"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6268,12 +6226,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 10",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "Moon"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6285,12 +6243,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 10",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "shadow"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6302,12 +6260,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 10",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "Stars"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6319,12 +6277,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 10",
     "type": "Fill in the blanks",
     "answer": [
-      "Ans"
+      "sky"
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6336,12 +6294,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 10",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "The Sun is the brightest object in the sky because it gives us light and heat. It is so bright that other stars cannot be seen when it is present."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6355,12 +6313,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 10",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Pongal is a festival celebrated in India, often related to the Sun."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6374,12 +6332,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 10",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Stars are celestial objects that appear in the sky at night when the Sun is not present."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6393,12 +6351,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 10",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Morning is the time of day when the Sun appears to rise in the sky."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6412,12 +6370,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 10",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "The sky appears different at various times of the day, with its colour changing from morning to afternoon and at night."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6431,12 +6389,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 10",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "When you look up at night, you can see the Moon and thousands of twinkling stars."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6450,12 +6408,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 10",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "The shortest shadows occur at noon."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6469,12 +6427,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 10",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Diwali is one of the festivals celebrated based on the appearance of the Moon."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6488,12 +6446,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 10",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Eid is celebrated on the day when the Moon is visible on the first night after a New Moon."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6507,12 +6465,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 10",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "The chapter states that the sky appears to have an orange color in the morning, which occurs as part of the changing appearance of the sky at different times of the day."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6526,12 +6484,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 10",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Shadows are long in the morning, become short at noon, and grow long again in the evening. Their direction also changes throughout the day due to the movement of the Sun."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6545,12 +6503,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 10",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "Amavasya, or the new Moon, is the period when the Moon is not visible in the sky at all."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6564,12 +6522,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 10",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "The sky appears different at various times of the day. In the morning, the Sun rises and the sky may look orange. By the afternoon, the Sun is overhead and its light is strong. After sunset, the sky becomes dark and is filled with twinkling stars and the Moon."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6583,12 +6541,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 10",
     "type": "Long answer type questions",
     "answer": [
-      "Ans"
+      "The Moon's shape changes over time, ranging from a 'C' shape or a half-moon to a full, round shape known as Poornima. These phases are significant for festivals, such as Diwali being celebrated on the new Moon (Amavasya) and Rakshabandhan or Buddha Poornima being celebrated when the full Moon is visible."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6602,12 +6560,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 10",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "The Sun appears to rise in the east, moves up until it is overhead at noon, and then moves downwards toward the west until it disappears in the evening. Additionally, its color and the strength of its light seem to change throughout the day."
     ],
     "difficulty": "M",
     "outcome": "Apply",
@@ -6621,12 +6579,12 @@ var questions = [
   },
   {
     "subject": "",
-    "class": "class-5",
+    "class": "class-4",
     "book": "EVS-4_worksheet",
     "chapter": "Chapter 10",
     "type": "Short answer type questions",
     "answer": [
-      "Ans"
+      "The shape of the Moon helps people track days, which gave rise to early calendars used for festivals. For example, Diwali is celebrated during the new Moon, while Buddha Poornima is celebrated during the full Moon."
     ],
     "difficulty": "M",
     "outcome": "Apply",

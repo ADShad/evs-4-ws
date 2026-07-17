@@ -1014,9 +1014,9 @@ function insertQuestion($container, ids) {
     for (var q in r.question) {
       if (q == "title") {
         //$('<div class="question-title rx-editable"></div>').html(r.question.title).appendTo($div);
-        $('<div class="question-title rx-editable"></div>')
-          .html(r.question.option[0] != null ? r.question.option[0] : "")
-          .appendTo($div);
+        // $('<div class="option rx-editable"></div>')
+        //   .html(r.question.option[0] != null ? r.question.option[0] : "")
+        //   .appendTo($div);
       } else if (q == "image") {
         if (
           r.question.image != undefined &&
@@ -1089,7 +1089,7 @@ function insertQuestion($container, ids) {
               .html(bulleting + optnameii)
               .appendTo($opts);
           } else if (r.question.option.length > 2) {
-            for (var z = 1; z < r.question.option.length; z++) {
+            for (var z = 0; z < r.question.option.length; z++) {
               //$('<div class="option rx-editable"></div>').html(String.fromCharCode(65+z) + '. ' + r.question.option[z]).appendTo($opts);
 
               var optnameii = r.question.option[z];
